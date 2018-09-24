@@ -1,0 +1,6 @@
+D:\C#pro\Loop_demo\Pattern8\Pattern8\obj\Debug\Pattern8.csproj.CoreCompileInputs.cache
+D:\C#pro\Loop_demo\Pattern8\Pattern8\bin\Debug\Pattern8.exe.config
+D:\C#pro\Loop_demo\Pattern8\Pattern8\bin\Debug\Pattern8.exe
+D:\C#pro\Loop_demo\Pattern8\Pattern8\bin\Debug\Pattern8.pdb
+D:\C#pro\Loop_demo\Pattern8\Pattern8\obj\Debug\Pattern8.exe
+D:\C#pro\Loop_demo\Pattern8\Pattern8\obj\Debug\Pattern8.pdb

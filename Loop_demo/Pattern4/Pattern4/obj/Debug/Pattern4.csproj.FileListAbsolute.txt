@@ -1,0 +1,7 @@
+D:\C#pro\Loop_demo\Pattern4\Pattern4\bin\Debug\Pattern4.exe.config
+D:\C#pro\Loop_demo\Pattern4\Pattern4\bin\Debug\Pattern4.exe
+D:\C#pro\Loop_demo\Pattern4\Pattern4\bin\Debug\Pattern4.pdb
+D:\C#pro\Loop_demo\Pattern4\Pattern4\obj\Debug\Pattern4.csproj.CoreCompileInputs.cache
+D:\C#pro\Loop_demo\Pattern4\Pattern4\obj\Debug\Pattern4.exe
+D:\C#pro\Loop_demo\Pattern4\Pattern4\obj\Debug\Pattern4.pdb
+D:\C#pro\Loop_demo\Pattern4\Pattern4\obj\Debug\Pattern4.csprojAssemblyReference.cache

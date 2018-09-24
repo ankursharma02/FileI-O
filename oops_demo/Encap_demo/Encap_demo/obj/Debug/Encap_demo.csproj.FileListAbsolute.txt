@@ -1,0 +1,7 @@
+D:\C#pro\oops_demo\Encap_demo\Encap_demo\bin\Debug\Encap_demo.exe.config
+D:\C#pro\oops_demo\Encap_demo\Encap_demo\bin\Debug\Encap_demo.exe
+D:\C#pro\oops_demo\Encap_demo\Encap_demo\bin\Debug\Encap_demo.pdb
+D:\C#pro\oops_demo\Encap_demo\Encap_demo\obj\Debug\Encap_demo.csprojAssemblyReference.cache
+D:\C#pro\oops_demo\Encap_demo\Encap_demo\obj\Debug\Encap_demo.csproj.CoreCompileInputs.cache
+D:\C#pro\oops_demo\Encap_demo\Encap_demo\obj\Debug\Encap_demo.exe
+D:\C#pro\oops_demo\Encap_demo\Encap_demo\obj\Debug\Encap_demo.pdb

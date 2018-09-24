@@ -1,0 +1,7 @@
+D:\C#pro\oops_demo\Single_inher_demo\Single_inher_demo\bin\Debug\Single_inher_demo.exe.config
+D:\C#pro\oops_demo\Single_inher_demo\Single_inher_demo\bin\Debug\Single_inher_demo.exe
+D:\C#pro\oops_demo\Single_inher_demo\Single_inher_demo\bin\Debug\Single_inher_demo.pdb
+D:\C#pro\oops_demo\Single_inher_demo\Single_inher_demo\obj\Debug\Single_inher_demo.csproj.CoreCompileInputs.cache
+D:\C#pro\oops_demo\Single_inher_demo\Single_inher_demo\obj\Debug\Single_inher_demo.exe
+D:\C#pro\oops_demo\Single_inher_demo\Single_inher_demo\obj\Debug\Single_inher_demo.pdb
+D:\C#pro\oops_demo\Single_inher_demo\Single_inher_demo\obj\Debug\Single_inher_demo.csprojAssemblyReference.cache

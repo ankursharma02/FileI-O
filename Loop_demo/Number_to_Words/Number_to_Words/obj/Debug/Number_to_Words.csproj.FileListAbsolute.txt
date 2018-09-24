@@ -1,0 +1,7 @@
+D:\C#pro\Loop_demo\Number_to_Words\Number_to_Words\bin\Debug\Number_to_Words.exe.config
+D:\C#pro\Loop_demo\Number_to_Words\Number_to_Words\bin\Debug\Number_to_Words.exe
+D:\C#pro\Loop_demo\Number_to_Words\Number_to_Words\bin\Debug\Number_to_Words.pdb
+D:\C#pro\Loop_demo\Number_to_Words\Number_to_Words\obj\Debug\Number_to_Words.csproj.CoreCompileInputs.cache
+D:\C#pro\Loop_demo\Number_to_Words\Number_to_Words\obj\Debug\Number_to_Words.exe
+D:\C#pro\Loop_demo\Number_to_Words\Number_to_Words\obj\Debug\Number_to_Words.pdb
+D:\C#pro\Loop_demo\Number_to_Words\Number_to_Words\obj\Debug\Number_to_Words.csprojAssemblyReference.cache

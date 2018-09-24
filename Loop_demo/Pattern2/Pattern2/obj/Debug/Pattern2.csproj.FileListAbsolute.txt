@@ -1,0 +1,7 @@
+D:\C#pro\Loop_demo\Pattern2\Pattern2\bin\Debug\Pattern2.exe.config
+D:\C#pro\Loop_demo\Pattern2\Pattern2\bin\Debug\Pattern2.exe
+D:\C#pro\Loop_demo\Pattern2\Pattern2\bin\Debug\Pattern2.pdb
+D:\C#pro\Loop_demo\Pattern2\Pattern2\obj\Debug\Pattern2.csprojAssemblyReference.cache
+D:\C#pro\Loop_demo\Pattern2\Pattern2\obj\Debug\Pattern2.csproj.CoreCompileInputs.cache
+D:\C#pro\Loop_demo\Pattern2\Pattern2\obj\Debug\Pattern2.exe
+D:\C#pro\Loop_demo\Pattern2\Pattern2\obj\Debug\Pattern2.pdb

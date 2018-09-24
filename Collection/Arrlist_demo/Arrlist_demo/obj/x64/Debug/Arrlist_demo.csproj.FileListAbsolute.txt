@@ -1,0 +1,7 @@
+D:\C#pro\Collection\Arrlist_demo\Arrlist_demo\bin\x64\Debug\Arrlist_demo.exe.config
+D:\C#pro\Collection\Arrlist_demo\Arrlist_demo\bin\x64\Debug\Arrlist_demo.exe
+D:\C#pro\Collection\Arrlist_demo\Arrlist_demo\bin\x64\Debug\Arrlist_demo.pdb
+D:\C#pro\Collection\Arrlist_demo\Arrlist_demo\obj\x64\Debug\Arrlist_demo.csprojAssemblyReference.cache
+D:\C#pro\Collection\Arrlist_demo\Arrlist_demo\obj\x64\Debug\Arrlist_demo.csproj.CoreCompileInputs.cache
+D:\C#pro\Collection\Arrlist_demo\Arrlist_demo\obj\x64\Debug\Arrlist_demo.exe
+D:\C#pro\Collection\Arrlist_demo\Arrlist_demo\obj\x64\Debug\Arrlist_demo.pdb

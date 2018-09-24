@@ -1,0 +1,7 @@
+D:\C#pro\Loop_demo\Try_Goto\Try_Goto\bin\Debug\Try_Goto.exe.config
+D:\C#pro\Loop_demo\Try_Goto\Try_Goto\bin\Debug\Try_Goto.exe
+D:\C#pro\Loop_demo\Try_Goto\Try_Goto\bin\Debug\Try_Goto.pdb
+D:\C#pro\Loop_demo\Try_Goto\Try_Goto\obj\Debug\Try_Goto.csproj.CoreCompileInputs.cache
+D:\C#pro\Loop_demo\Try_Goto\Try_Goto\obj\Debug\Try_Goto.exe
+D:\C#pro\Loop_demo\Try_Goto\Try_Goto\obj\Debug\Try_Goto.pdb
+D:\C#pro\Loop_demo\Try_Goto\Try_Goto\obj\Debug\Try_Goto.csprojAssemblyReference.cache

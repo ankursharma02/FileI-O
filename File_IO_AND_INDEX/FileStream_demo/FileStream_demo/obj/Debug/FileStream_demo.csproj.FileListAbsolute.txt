@@ -1,0 +1,7 @@
+D:\C#pro\File_IO_AND_INDEX\FileStream_demo\FileStream_demo\bin\Debug\FileStream_demo.exe.config
+D:\C#pro\File_IO_AND_INDEX\FileStream_demo\FileStream_demo\bin\Debug\FileStream_demo.exe
+D:\C#pro\File_IO_AND_INDEX\FileStream_demo\FileStream_demo\bin\Debug\FileStream_demo.pdb
+D:\C#pro\File_IO_AND_INDEX\FileStream_demo\FileStream_demo\obj\Debug\FileStream_demo.csprojAssemblyReference.cache
+D:\C#pro\File_IO_AND_INDEX\FileStream_demo\FileStream_demo\obj\Debug\FileStream_demo.csproj.CoreCompileInputs.cache
+D:\C#pro\File_IO_AND_INDEX\FileStream_demo\FileStream_demo\obj\Debug\FileStream_demo.exe
+D:\C#pro\File_IO_AND_INDEX\FileStream_demo\FileStream_demo\obj\Debug\FileStream_demo.pdb

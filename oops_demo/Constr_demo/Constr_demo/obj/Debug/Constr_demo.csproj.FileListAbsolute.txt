@@ -1,0 +1,7 @@
+D:\C#pro\oops_demo\Constr_demo\Constr_demo\bin\Debug\Constr_demo.exe.config
+D:\C#pro\oops_demo\Constr_demo\Constr_demo\bin\Debug\Constr_demo.exe
+D:\C#pro\oops_demo\Constr_demo\Constr_demo\bin\Debug\Constr_demo.pdb
+D:\C#pro\oops_demo\Constr_demo\Constr_demo\obj\Debug\Constr_demo.csprojAssemblyReference.cache
+D:\C#pro\oops_demo\Constr_demo\Constr_demo\obj\Debug\Constr_demo.csproj.CoreCompileInputs.cache
+D:\C#pro\oops_demo\Constr_demo\Constr_demo\obj\Debug\Constr_demo.exe
+D:\C#pro\oops_demo\Constr_demo\Constr_demo\obj\Debug\Constr_demo.pdb

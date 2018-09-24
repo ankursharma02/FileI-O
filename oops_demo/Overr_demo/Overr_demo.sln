@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overr_demo", "Overr_demo\Overr_demo.csproj", "{9A17F1C4-9B74-4D8C-AC45-3E628BCC0E0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A17F1C4-9B74-4D8C-AC45-3E628BCC0E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A17F1C4-9B74-4D8C-AC45-3E628BCC0E0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A17F1C4-9B74-4D8C-AC45-3E628BCC0E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A17F1C4-9B74-4D8C-AC45-3E628BCC0E0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FDD39F0-9061-41DE-B039-385F15E49B06}
+	EndGlobalSection
+EndGlobal

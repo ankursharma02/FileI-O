@@ -1,0 +1,6 @@
+D:\C#pro\Loop_demo\Pattern3\Pattern3\bin\Debug\Pattern3.exe.config
+D:\C#pro\Loop_demo\Pattern3\Pattern3\bin\Debug\Pattern3.exe
+D:\C#pro\Loop_demo\Pattern3\Pattern3\bin\Debug\Pattern3.pdb
+D:\C#pro\Loop_demo\Pattern3\Pattern3\obj\Debug\Pattern3.csproj.CoreCompileInputs.cache
+D:\C#pro\Loop_demo\Pattern3\Pattern3\obj\Debug\Pattern3.exe
+D:\C#pro\Loop_demo\Pattern3\Pattern3\obj\Debug\Pattern3.pdb

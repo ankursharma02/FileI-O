@@ -1,0 +1,6 @@
+D:\C#pro\Loop_demo\Pattern7\Pattern7\bin\Debug\Pattern7.exe.config
+D:\C#pro\Loop_demo\Pattern7\Pattern7\bin\Debug\Pattern7.exe
+D:\C#pro\Loop_demo\Pattern7\Pattern7\bin\Debug\Pattern7.pdb
+D:\C#pro\Loop_demo\Pattern7\Pattern7\obj\Debug\Pattern7.csproj.CoreCompileInputs.cache
+D:\C#pro\Loop_demo\Pattern7\Pattern7\obj\Debug\Pattern7.exe
+D:\C#pro\Loop_demo\Pattern7\Pattern7\obj\Debug\Pattern7.pdb

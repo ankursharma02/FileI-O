@@ -1,0 +1,7 @@
+D:\C#pro\Loop_demo\Pattern5\Pattern5\bin\Debug\Pattern5.exe.config
+D:\C#pro\Loop_demo\Pattern5\Pattern5\bin\Debug\Pattern5.exe
+D:\C#pro\Loop_demo\Pattern5\Pattern5\bin\Debug\Pattern5.pdb
+D:\C#pro\Loop_demo\Pattern5\Pattern5\obj\Debug\Pattern5.csproj.CoreCompileInputs.cache
+D:\C#pro\Loop_demo\Pattern5\Pattern5\obj\Debug\Pattern5.exe
+D:\C#pro\Loop_demo\Pattern5\Pattern5\obj\Debug\Pattern5.pdb
+D:\C#pro\Loop_demo\Pattern5\Pattern5\obj\Debug\Pattern5.csprojAssemblyReference.cache

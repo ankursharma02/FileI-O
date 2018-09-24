@@ -1,0 +1,7 @@
+D:\C#pro\Array_generics\simple_array\simple_array\bin\Debug\simple_array.exe.config
+D:\C#pro\Array_generics\simple_array\simple_array\bin\Debug\simple_array.exe
+D:\C#pro\Array_generics\simple_array\simple_array\bin\Debug\simple_array.pdb
+D:\C#pro\Array_generics\simple_array\simple_array\obj\Debug\simple_array.csprojAssemblyReference.cache
+D:\C#pro\Array_generics\simple_array\simple_array\obj\Debug\simple_array.csproj.CoreCompileInputs.cache
+D:\C#pro\Array_generics\simple_array\simple_array\obj\Debug\simple_array.exe
+D:\C#pro\Array_generics\simple_array\simple_array\obj\Debug\simple_array.pdb

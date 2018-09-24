@@ -1,0 +1,7 @@
+D:\C#pro\Loop_demo\Convert_Demo\Convert_Demo\bin\Debug\Convert_Demo.exe.config
+D:\C#pro\Loop_demo\Convert_Demo\Convert_Demo\bin\Debug\Convert_Demo.exe
+D:\C#pro\Loop_demo\Convert_Demo\Convert_Demo\bin\Debug\Convert_Demo.pdb
+D:\C#pro\Loop_demo\Convert_Demo\Convert_Demo\obj\Debug\Convert_Demo.csproj.CoreCompileInputs.cache
+D:\C#pro\Loop_demo\Convert_Demo\Convert_Demo\obj\Debug\Convert_Demo.exe
+D:\C#pro\Loop_demo\Convert_Demo\Convert_Demo\obj\Debug\Convert_Demo.pdb
+D:\C#pro\Loop_demo\Convert_Demo\Convert_Demo\obj\Debug\Convert_Demo.csprojAssemblyReference.cache
